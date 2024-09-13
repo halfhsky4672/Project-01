@@ -1,7 +1,7 @@
 # Project-01
 
-# Your Name
+# Skyler Halfhill
 
-# Your Github username
+# halfhsky4672
 
 # List the things you added for points
